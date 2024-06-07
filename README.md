@@ -11,7 +11,6 @@ Repository Contents
 2.model.py: A Python script containing the final trained model and functions for loading the model, preprocessing input data, and making predictions.
 
 3.spam classifier.ipynb: A comprehensive notebook that walks through the steps of:
-
                         Data loading and exploration,
                         Data preprocessing (cleaning, tokenization, vectorization),
                         Model training and tuning,
